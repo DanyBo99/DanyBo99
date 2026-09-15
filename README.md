@@ -105,5 +105,5 @@ Research experience in structural engineering, artificial intelligence, infrastr
 
 [LinkedIn](https://www.linkedin.com/in/alejandro-daniel-bordas-segovia-2a1431273/) •
 
-[ORCID](https://orcid.org/my-orcid?orcid=0009-0008-2256-0937) •
+[ORCID](https://orcid.org/0009-0008-2256-0937) •
 
