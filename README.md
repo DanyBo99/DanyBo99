@@ -44,10 +44,6 @@ Numerical Modeling, Hydrogeology, and Scientific Computing.
 
 ---
 
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanyBo99&theme=github-compact&hide_border=true">
-
 ---
 
 ## 📚 Selected Research
