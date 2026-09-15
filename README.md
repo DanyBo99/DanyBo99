@@ -1,4 +1,4 @@
-# Hi, I'm Alejandro Bordas 👋
+# Hi, I'm A. Daniel Bordas 👋
 
 **Civil Engineering Student | Research Assistant | Computational & Data-Driven Engineering**
 
