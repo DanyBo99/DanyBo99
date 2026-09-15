@@ -1,6 +1,6 @@
 # Hi, I'm A. Daniel Bordas 👋
 
-**Civil Engineering Student | Research Assistant | Computational & Data-Driven Engineering**
+**Civil Engineering Student | Research Assistant | Data Analyst**
 
 Research interests in Structural Health Monitoring, Artificial Intelligence for Infrastructure,
 Numerical Modeling, Hydrogeology, and Scientific Computing.
